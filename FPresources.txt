@@ -1,0 +1,18 @@
+Reptile Database
+https://reptile-database.reptarium.cz/advanced_search?taxon=Gekkota&location=New+Caledonia&exact%5B0%5D=taxon&exact%5B1%5D=location&submit=Search
+
+Crested Gecko RAG1 cas 205482
+https://www.ncbi.nlm.nih.gov/nuccore/JX024482.1
+
+Sonoran desert lizard RAG1
+https://www.ncbi.nlm.nih.gov/nuccore/AY662620.1
+
+Phoenix airport collection data (lizards & arthropods)
+https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cap.691.3
+
+Arthropod data central AZ
+https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cap.30.9
+
+[X] Salt & Gila rivers
+https://portal.edirepository.org/nis/mapbrowse?packageid=edi.192.5
+https://portal.edirepository.org/nis/mapbrowse?packageid=edi.870.2

@@ -1,0 +1,17 @@
+My chosen datasets are of reptile and/or arthropod collection data from urban/suburban environments, as well as nucleotide sequencing data from some of the species collected within those datasets. I am planning to analyze the similarity between the features of the captured species, as well as the fluctuations in population/species composition (based on # of captures) over time. I also want to analyze nucleotide sequence data of some of the observed species, to see similarities in the genomes of different reptile/arthropods and to see how similarity based on genetic data compares to similarity based on feature vectors.
+
+Phoenix airport collection data (lizards & arthropods)
+https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cap.691.3
+
+Arthropod collection data central Arizona
+https://portal.edirepository.org/nis/mapbrowse?packageid=knb-lter-cap.30.9
+
+Arizona Salt & Gila rivers collection data
+https://portal.edirepository.org/nis/mapbrowse?packageid=edi.192.5
+https://portal.edirepository.org/nis/mapbrowse?packageid=edi.870.2
+
+Reptile Database
+https://reptile-database.reptarium.cz/
+
+Sonoran desert lizard RAG1 nucleotide sequence
+https://www.ncbi.nlm.nih.gov/nuccore/AY662620.1
