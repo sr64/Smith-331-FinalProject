@@ -24,11 +24,11 @@ abbs_spp = {'ASTI':['Aspidoscelis tigris','Tiger whiptail'],'UTST':['Uta stansbu
 Reptiles: one point for count of total rows for each month of the year (or for each year?)
 Arthropods: one point that sums the count column for each month of the year (or for each year?)
 '''
-#create/train model using global reptile information dataset (naive bayes?)
+#create/train model using reptile information dataset (naive bayes?)
 '''
-Use info from global reptile dataset to create model & confusion matrix, y=scientific name and X=weight, measurements, region, habitat, elevation, etc.
+Use info from reptile dataset to create model & confusion matrix, y=scientific name and X=weight, measurements, region, habitat, elevation, etc.
 '''
-#apply model to AZ reptile data (confusion matrix? show decision boundaries? which feature/s are best for predicting reptile species given biological data?)
+#apply model to another reptile data (confusion matrix? show decision boundaries? which feature/s are best for predicting reptile species given biological data?)
 '''
 Apply given reptile data from AZ to see how well it classifies it 
 (using mean/max M/F for each species), make suggestion about data to be collected that would work best with the model
